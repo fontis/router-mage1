@@ -1,0 +1,9 @@
+{
+    "name": "fontis/router",
+    "type": "magento-module",
+    "description": "Fontis custom core router for Magento.",
+    "homepage": "https://www.fontis.com.au",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*" 
+    }   
+}
